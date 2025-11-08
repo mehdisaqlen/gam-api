@@ -1,0 +1,5 @@
+ad_manager:
+  application_name: "GAM Access API"
+  network_code:
+  json_key_file_path: "./sa.json"
+  delegate_email: "" # keep empty since you’re not impersonating
