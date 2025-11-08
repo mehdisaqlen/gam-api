@@ -1,0 +1,5 @@
+GET /reports/summary?range=today&network_code=123456
+GET /reports/locations?range=yesterday
+GET /reports/timeseries?range=last_30_days&network_code=123456
+GET /networks
+POST /grant-access
